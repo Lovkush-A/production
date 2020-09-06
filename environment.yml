@@ -5,7 +5,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - appnope=0.1.0
   - argon2-cffi=20.1.0
   - async_generator=1.10
   - attrs=20.2.0
@@ -52,7 +51,6 @@ dependencies:
   - lcms2=2.11
   - libcxx=10.0.1
   - libffi=3.2.1
-  - libgfortran=3.0.1
   - libpng=1.6.37
   - libsodium=1.0.18
   - libtiff=4.1.0
